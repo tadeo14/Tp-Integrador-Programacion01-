@@ -1,0 +1,8 @@
+1- Seleccion del tema
+2- Busqueda de informacion (libros, documentacion oficial, articulos tutoriales)
+3. Redaccion del marco teorico
+4. Diseño y desarrollo del caso practico. 
+5. documentacion y realizacion de pruebas
+6. Publicacion del proyecto en GIT
+7. Produccion dle video tutorial
+8. Reflexion grupal y redaccion de conclusiones.
