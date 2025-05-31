@@ -1,4 +1,4 @@
-1- Seleccion del tema
+1- Seleccion del tema : Algoritmos de Ordenamiento y Búsqueda en Python 
 2- Busqueda de informacion (libros, documentacion oficial, articulos tutoriales)
 3. Redaccion del marco teorico
 4. Diseño y desarrollo del caso practico. 
